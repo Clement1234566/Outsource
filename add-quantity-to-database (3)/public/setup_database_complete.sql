@@ -50,7 +50,7 @@ CREATE TABLE redeem_history (
 -- INSERT MERCHANDISE (12 ITEMS) - Total Qty: 276
 -- =====================================================================
 INSERT INTO prizes (name, description, qty) VALUES
-('Tumbler', 'Tumbler Stainless Steel', 37),
+('Tumbler', 'Tumbler Stainless Steel', 16),
 ('Bantal Kokoru', 'Bantal Kokoru Custom', 8),
 ('Payung', 'Payung Lipat 2 Warna', 18),
 ('Topi', 'Topi Custom Perusahaan', 15),
